@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Secrets (never commit these)
+.env
+.streamlit/secrets.toml
+
+# Raw data and user history (privacy + size)
+data/raw/
+data/history.db
+data/*.db
+
+# Large model files (keep small ones only if you choose to)
+models/transformer/
+*.pt
+*.bin
+*.safetensors
+
+# Notebook and editor files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

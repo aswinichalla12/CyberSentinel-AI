@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cybersentinel"
+version = "0.1.0"
+description = "CyberSentinel AI: Explainable Multimodal Scam Detection and Threat Investigation Platform"
+requires-python = ">=3.10,<3.13"
+
+[tool.setuptools.packages.find]
+include = ["cybersentinel*"]
