@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b32f9026-75be-41ca-9b16-04cf7aaa8968" /># 🛡️ CyberSentinel AI – Intelligent Scam Detection System
+# 🛡️ CyberSentinel AI – Intelligent Scam Detection System
 
 An AI-powered SMS scam detection application built using Machine Learning, NLP, and an Embedding-Based Text Representation System.
 
