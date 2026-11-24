@@ -1,4 +1,4 @@
-# 🛡️ CyberSentinel AI – Intelligent Scam Detection System
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b32f9026-75be-41ca-9b16-04cf7aaa8968" /># 🛡️ CyberSentinel AI – Intelligent Scam Detection System
 
 An AI-powered SMS scam detection application built using Machine Learning, NLP, and an Embedding-Based Text Representation System.
 
@@ -19,6 +19,8 @@ The system converts message text into meaningful numerical vector representation
 - **Example Messages:** Test the application using sample messages.
 - **Real-Time Prediction:** Analyze messages instantly.
 - **Batch Analysis:** Supports analyzing multiple messages if enabled in the application.
+## ⚙️ Tools Used
+Python 3.11 | VS Code | Scikit-learn | Pandas | NumPy | Embeddings| LogisticRegresssion Joblib | Streamlit | GitHub
 
 ## 🛠️ Technologies Used
 
